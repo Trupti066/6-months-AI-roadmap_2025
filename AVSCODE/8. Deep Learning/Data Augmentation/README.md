@@ -27,11 +27,14 @@ Data_Aurgumentaion/
 │── Day78_Data_Augmentation.ipynb  # Documentation notebook
 │── requirements.txt    # Dependencies
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📸 Screenshots
+📸 Screenshots\
+
 1️⃣ Overall App Look
 <img width="1920" height="1080" alt="Frontend_View" src="https://github.com/user-attachments/assets/795a6496-1c97-4b3e-a36c-572c9e680e47" />
+
 2️⃣ Upload Images & Select Mode
 <img width="1920" height="1080" alt="Screenshot (285)" src="https://github.com/user-attachments/assets/de4a08aa-c39d-402f-b2f6-477f162bad66" />
+
 3️⃣ Augmented Images Generated
 <img width="1920" height="1080" alt="Mix _all modes_output" src="https://github.com/user-attachments/assets/0fca08f7-b0bf-4e30-9cda-1c26ddb7793a" />
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
